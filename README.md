@@ -1,1 +1,0 @@
-This is Maki's first git project!
